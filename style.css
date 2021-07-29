@@ -1,0 +1,26 @@
+body {
+    text-align:center;
+    background-color: aquamarine;
+    }
+    #images{
+    height:300px;
+    width:300px;
+    }
+    #names{
+    color:#a946fa;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    }
+    /* button{
+    background-color:#FF80AB;
+    width:150px;
+    height:70px;
+    padding: 16px 16px 16px 16px;
+    font-family: Merriweather, serif;
+    font-size:20px;
+    } */
+   /*  html {
+    border:groove;
+    margin: 10px 50px 10px 50px;
+    height: 100%;
+    } */ 
